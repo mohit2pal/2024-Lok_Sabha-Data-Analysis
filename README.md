@@ -38,6 +38,8 @@
 
 [![Download the PowerBI file](https://img.shields.io/badge/Download-PowerBI%20File-blue?style=for-the-badge&logo=power-bi)](PowerBi/election-visualization.pbix)
 
+[![Python Visualization](https://img.shields.io/badge/Python%20Visualization-Notebook-yellow?style=for-the-badge&logo=jupyter)](python-vizualization.ipynb)
+
 </div>
 
 ##
