@@ -1,4 +1,4 @@
-# 2024 Indian General Election Data Analysis Report
+# <div align="center" style="font-size: 100px;">🗳️ 2024 Indian General Election Data Analysis Report</div>
 
 1. **Uncontested Candidate**
    - Mukeshkumar Chandrakaant Dalal from Gujarat, Surat constituency, is the only uncontested candidate in the 2024 election.
