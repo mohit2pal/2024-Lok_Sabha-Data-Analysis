@@ -28,4 +28,4 @@
    - Uttar Pradesh, West Bengal, and Maharashtra had the highest voter turnout. However, BJP did not secure the most constituencies in any of these states.
 
 10. **Highest Number of Candidates**
-    - The Karur constituency in Tamil Nadu had the highest number of candidates contesting in the 2024 elections.
+    - The Karur constituency in Tamil Nadu had the highest number of candidates contesting in the 2024 elections, with a total of 55 candidates.
