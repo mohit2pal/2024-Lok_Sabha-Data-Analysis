@@ -39,3 +39,13 @@
 [![Download the PowerBI file](https://img.shields.io/badge/Download-PowerBI%20File-blue?style=for-the-badge&logo=power-bi)](PowerBi/election-visualization.pbix)
 
 </div>
+
+##
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subha%20Bal%20Pal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subha-bal-pal-3b4643226/)
+[![GitHub](https://img.shields.io/badge/GitHub-mohit2pal-black?style=for-the-badge&logo=github)](https://github.com/mohit2pal/)
+[![Phone](https://img.shields.io/badge/Phone-8981718313-green?style=for-the-badge&logo=phone)](tel:8981718313)
+
+</div>
