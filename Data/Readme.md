@@ -72,3 +72,5 @@
 - **% of Votes**:
   - Average percentage of votes: 6.09% 📈
   - Range: 0.01% to 78.54%
+
+
